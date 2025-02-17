@@ -1,0 +1,266 @@
+
+***Navigator***
+
+Opened File
+Airports loaded: 40
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Airport From Route
+4. Reverse Route
+5. Exit
+2
+No routes to display
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Airport From Route
+4. Reverse Route
+5. Exit
+3
+No routes to remove airports
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Airport From Route
+4. Reverse Route
+5. Exit
+4
+No routes to reverse
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Airport From Route
+4. Reverse Route
+5. Exit
+1
+1. SCHIPHOL, AMSTERDAM
+2. THE WILLIAM B HARTSFIELD ATLANTA INTERNATIONAL, ATLANTA
+3. BARCELONA, BARCELONA
+4. BANGKOK INTERNATIONAL, BANGKOK
+5. BANGALORE, BANGALORE
+6. CHHATRAPATI SHIVAJI INTERNATIONAL, BOMBAY
+7. GENERAL EDWARD LAWRENCE LOGAN INTERNATIONAL, BOSTON
+8. BALTIMORE WASHINGTON INTERNATIONAL, BALTIMORE
+9. CHARLES DE GAULLE, PARIS
+10. CANCUN INTERNATIONAL, CANCUN
+11. DALLAS LOVE FLD, DALLAS
+12. INDIRA GANDHI INTERNATIONAL, DELHI
+13. KING FAHD INTERNATIONAL, DAMMAM
+14. DOHA INTERNATIONAL, DOHA
+15. DUBAI INTERNATIONAL, DUBAI
+16. NEWARK LIBERTY INTERNATIONAL, NEWARK
+17. FIUMICINO, ROME
+18. FRANKFURT MAIN, FRANKFURT
+19. GRAND CENTRAL, JOHANNESBURG
+20. GENEVA COINTRIN, GENEVA
+21. HONG KONG INTERNATIONAL, HONG KONG
+22. GEORGE BUSH INTCNTL HOUSTON, HOUSTON
+23. ATATURK, ISTANBUL
+24. JOHN F KENNEDY INTERNATIONAL, NEW YORK
+25. KUALA LUMPUR INTERNATIONAL, KUALA LUMPUR
+26. LOS ANGELES INTERNATIONAL, LOS ANGELES
+27. HEATHROW, LONDON
+28. LICENCIADO BENITO JUAREZ INTERNATIONAL, MEXICO CITY
+29. MIAMI INTERNATIONAL, MIAMI
+30. MUNICH, MUNICH
+31. NEW TOKYO INTERNATIONAL, TOKYO
+32. CHICAGO OHARE INTERNATIONAL, CHICAGO
+33. CAPITAL, BEIJING
+34. PHOENIX SKY HARBOR INTERNATIONAL, PHOENIX
+35. SANTOS DUMONT, RIO DE JANEIRO
+36. SAN FRANCISCO INTERNATIONAL, SAN FRANCISCO
+37. HONGQIAO INTERNATIONAL, SHANGHAI
+38. SINGAPORE CHANGI, SINGAPORE
+39. KINGSFORD SMITH INTERNATIONAL AIRPORT, SYDNEY
+40. CHIANG KAI SHEK INTERNATIONAL, TAIPEI
+Enter the number of the airport to add to your Route: (-1 to end)
+1
+Enter the number of the airport to add to your Route: (-1 to end)
+2
+Enter the number of the airport to add to your Route: (-1 to end)
+3
+Enter the number of the airport to add to your Route: (-1 to end)
+4
+Enter the number of the airport to add to your Route: (-1 to end)
+0
+Invalid airport number - Try again
+Enter the number of the airport to add to your Route: (-1 to end)
+-1
+Done Building a New Route named AMSTERDAM to BANGKOK
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Airport From Route
+4. Reverse Route
+5. Exit
+2
+Which route would you like to use?
+1. AMSTERDAM to BANGKOK
+0
+Which route would you like to use?
+1. AMSTERDAM to BANGKOK
+1
+AMSTERDAM to BANGKOK
+1. AMS, SCHIPHOL, AMSTERDAM, NETHERLANDS (N52.309 W4.764)
+2. ATL, THE WILLIAM B HARTSFIELD ATLANTA INTERNATIONAL, ATLANTA, USA (N33.64 W-84.427)
+3. BCN, BARCELONA, BARCELONA, SPAIN (N41.297 W2.078)
+4. BKK, BANGKOK INTERNATIONAL, BANGKOK, THAILAND (N13.912 W100.607)
+The total miles of this route is 14981.9 miles
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Airport From Route
+4. Reverse Route
+5. Exit
+3
+Which route would you like to use?
+1. AMSTERDAM to BANGKOK
+1
+AMSTERDAM to BANGKOK
+1. AMS, SCHIPHOL, AMSTERDAM, NETHERLANDS (N52.309 W4.764)
+2. ATL, THE WILLIAM B HARTSFIELD ATLANTA INTERNATIONAL, ATLANTA, USA (N33.64 W-84.427)
+3. BCN, BARCELONA, BARCELONA, SPAIN (N41.297 W2.078)
+4. BKK, BANGKOK INTERNATIONAL, BANGKOK, THAILAND (N13.912 W100.607)
+Which airport would you like to remove?
+1
+AMSTERDAM to BANGKOK
+1. ATL, THE WILLIAM B HARTSFIELD ATLANTA INTERNATIONAL, ATLANTA, USA (N33.64 W-84.427)
+2. BCN, BARCELONA, BARCELONA, SPAIN (N41.297 W2.078)
+3. BKK, BANGKOK INTERNATIONAL, BANGKOK, THAILAND (N13.912 W100.607)
+Route named ATLANTA to BANGKOK updated
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Airport From Route
+4. Reverse Route
+5. Exit
+2
+Which route would you like to use?
+1. ATLANTA to BANGKOK
+1
+ATLANTA to BANGKOK
+1. ATL, THE WILLIAM B HARTSFIELD ATLANTA INTERNATIONAL, ATLANTA, USA (N33.64 W-84.427)
+2. BCN, BARCELONA, BARCELONA, SPAIN (N41.297 W2.078)
+3. BKK, BANGKOK INTERNATIONAL, BANGKOK, THAILAND (N13.912 W100.607)
+The total miles of this route is 10591.6 miles
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Airport From Route
+4. Reverse Route
+5. Exit
+4
+Which route would you like to use?
+1. ATLANTA to BANGKOK
+1
+Done reversing Route BANGKOK to ATLANTA
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Airport From Route
+4. Reverse Route
+5. Exit
+2
+Which route would you like to use?
+1. BANGKOK to ATLANTA
+1
+BANGKOK to ATLANTA
+1. BKK, BANGKOK INTERNATIONAL, BANGKOK, THAILAND (N13.912 W100.607)
+2. BCN, BARCELONA, BARCELONA, SPAIN (N41.297 W2.078)
+3. ATL, THE WILLIAM B HARTSFIELD ATLANTA INTERNATIONAL, ATLANTA, USA (N33.64 W-84.427)
+The total miles of this route is 10591.6 miles
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Airport From Route
+4. Reverse Route
+5. Exit
+1
+1. SCHIPHOL, AMSTERDAM
+2. THE WILLIAM B HARTSFIELD ATLANTA INTERNATIONAL, ATLANTA
+3. BARCELONA, BARCELONA
+4. BANGKOK INTERNATIONAL, BANGKOK
+5. BANGALORE, BANGALORE
+6. CHHATRAPATI SHIVAJI INTERNATIONAL, BOMBAY
+7. GENERAL EDWARD LAWRENCE LOGAN INTERNATIONAL, BOSTON
+8. BALTIMORE WASHINGTON INTERNATIONAL, BALTIMORE
+9. CHARLES DE GAULLE, PARIS
+10. CANCUN INTERNATIONAL, CANCUN
+11. DALLAS LOVE FLD, DALLAS
+12. INDIRA GANDHI INTERNATIONAL, DELHI
+13. KING FAHD INTERNATIONAL, DAMMAM
+14. DOHA INTERNATIONAL, DOHA
+15. DUBAI INTERNATIONAL, DUBAI
+16. NEWARK LIBERTY INTERNATIONAL, NEWARK
+17. FIUMICINO, ROME
+18. FRANKFURT MAIN, FRANKFURT
+19. GRAND CENTRAL, JOHANNESBURG
+20. GENEVA COINTRIN, GENEVA
+21. HONG KONG INTERNATIONAL, HONG KONG
+22. GEORGE BUSH INTCNTL HOUSTON, HOUSTON
+23. ATATURK, ISTANBUL
+24. JOHN F KENNEDY INTERNATIONAL, NEW YORK
+25. KUALA LUMPUR INTERNATIONAL, KUALA LUMPUR
+26. LOS ANGELES INTERNATIONAL, LOS ANGELES
+27. HEATHROW, LONDON
+28. LICENCIADO BENITO JUAREZ INTERNATIONAL, MEXICO CITY
+29. MIAMI INTERNATIONAL, MIAMI
+30. MUNICH, MUNICH
+31. NEW TOKYO INTERNATIONAL, TOKYO
+32. CHICAGO OHARE INTERNATIONAL, CHICAGO
+33. CAPITAL, BEIJING
+34. PHOENIX SKY HARBOR INTERNATIONAL, PHOENIX
+35. SANTOS DUMONT, RIO DE JANEIRO
+36. SAN FRANCISCO INTERNATIONAL, SAN FRANCISCO
+37. HONGQIAO INTERNATIONAL, SHANGHAI
+38. SINGAPORE CHANGI, SINGAPORE
+39. KINGSFORD SMITH INTERNATIONAL AIRPORT, SYDNEY
+40. CHIANG KAI SHEK INTERNATIONAL, TAIPEI
+Enter the number of the airport to add to your Route: (-1 to end)
+41
+Invalid airport number - Try again
+Enter the number of the airport to add to your Route: (-1 to end)
+40
+Enter the number of the airport to add to your Route: (-1 to end)
+39
+Enter the number of the airport to add to your Route: (-1 to end)
+-1
+Done Building a New Route named TAIPEI to SYDNEY
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Airport From Route
+4. Reverse Route
+5. Exit
+2
+Which route would you like to use?
+1. BANGKOK to ATLANTA
+2. TAIPEI to SYDNEY
+2
+TAIPEI to SYDNEY
+1. TPE, CHIANG KAI SHEK INTERNATIONAL, TAIPEI, TAIWAN (N25.08 W121.232)
+2. SYD, KINGSFORD SMITH INTERNATIONAL AIRPORT, SYDNEY, AUSTRALIA (N-33.946 W151.177)
+The total miles of this route is 4527.17 miles
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Airport From Route
+4. Reverse Route
+5. Exit
+3
+Which route would you like to use?
+1. BANGKOK to ATLANTA
+2. TAIPEI to SYDNEY
+2
+Route cannot have less than two airports.
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Airport From Route
+4. Reverse Route
+5. Exit
+5
+Routes removed from memory
+Deleting Airports
+Deleting Routes
