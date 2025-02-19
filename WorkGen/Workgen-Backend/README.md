@@ -1,5 +1,6 @@
 HACKUMBC2024 ENTRY
 WorkGen
--- AUTHORS: Jossie Batisso 
+-- AUTHORS:  
             Aswanth Jeyaram Kumar
+            Jossie Batisso
             AnhDuy Tran
