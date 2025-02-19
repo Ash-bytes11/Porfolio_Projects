@@ -1,0 +1,327 @@
+Welcome to UMBC Movie Player
+5340 movie files loaded.
+What would you like to do?
+1. Display Movie by Type and Year
+2. Add Movie to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+3
+The playlist is currently empty.
+What would you like to do?
+1. Display Movie by Type and Year
+2. Add Movie to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+4
+The playlist needs at least two movies to sort.
+What would you like to do?
+1. Display Movie by Type and Year
+2. Add Movie to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+1
+Which year would you like to display? (1980-2020)
+1983
+******1983*****
+Which genre would you like?
+Action
+******Action*****
+MOVIES TOTAL: 5340
+174 Star Wars: Episode VI - Return of the Jedi by Richard Marquand from 1983
+178 Superman III by Richard Lester from 1983
+184 WarGames by John Badham from 1983
+186 Krull by Peter Yates from 1983
+188 Octopussy by John Glen from 1983
+195 Never Say Never Again by Irvin Kershner from 1983
+198 Sudden Impact by Clint Eastwood from 1983
+199 Blue Thunder by John Badham from 1983
+200 Breathless by Jim McBride from 1983
+207 Yellowbeard by Mel Damski from 1983
+209 Deathstalker by James Sbardellati from 1983
+214 Lone Wolf McQuade by Steve Carver from 1983
+218 Angel by Robert Vincent O'Neil from 1983
+220 Uncommon Valor by Ted Kotcheff from 1983
+224 Chained Heat by Paul Nicholas from 1983
+225 Spacehunter: Adventures in the Forbidden Zone by Lamont Johnson from 1983
+231 The Osterman Weekend by Sam Peckinpah from 1983
+232 Revenge of the Ninja by Sam Firstenberg from 1983
+237 D.C. Cab by Joel Schumacher from 1983
+244 Eddie Macon's Run by Jeff Kanew from 1983
+248 Nate and Hayes by Ferdinand Fairfax from 1983
+21 movies found.
+What would you like to do?
+1. Display Movie by Type and Year
+2. Add Movie to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+2
+The playlist is currently empty.
+Choose the movie you would like to add to the playlist.
+Which year would you like to display? (1980-2020)
+1988
+******1988*****
+Which genre would you like?
+Action
+******Action*****
+MOVIES TOTAL: 5340
+634 Die Hard by John McTiernan from 1988
+635 Midnight Run by Martin Brest from 1988
+640 They Live by John Carpenter from 1988
+641 Willow by Ron Howard from 1988
+642 Crocodile Dundee II by John Cornell from 1988
+655 Young Guns by Christopher Cain from 1988
+658 Bloodsport by Newt Arnold from 1988
+662 Rambo III by Peter MacDonald from 1988
+673 Red Heat by Walter Hill from 1988
+679 Above the Law by Andrew Davis from 1988
+681 The Dead Pool by Buddy Van Horn from 1988
+682 I'm Gonna Git You Sucka by Keenen Ivory Wayans from 1988
+688 Colors by Dennis Hopper from 1988
+697 Maniac Cop by William Lustig from 1988
+716 Phantasm II by Don Coscarelli from 1988
+718 Action Jackson by Craig R. Baxley from 1988
+720 Shoot to Kill by Roger Spottiswoode from 1988
+724 Alien Nation by Graham Baker from 1988
+726 Miracle Mile by Steve De Jarnatt from 1988
+729 Dead Heat by Mark Goldblatt from 1988
+737 Red Scorpion by Joseph Zito from 1988
+750 Shakedown by James Glickenhaus from 1988
+760 Off Limits by Christopher Crowe from 1988
+23 movies found.
+Enter the number of the movie you would like to add:
+100
+Honky Tonk Freeway by John Schlesinger from 1981 added to the playlist.
+What would you like to do?
+1. Display Movie by Type and Year
+2. Add Movie to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+3
+1. Honky Tonk Freeway by John Schlesinger from 1981
+What would you like to do?
+1. Display Movie by Type and Year
+2. Add Movie to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+2
+1. Honky Tonk Freeway by John Schlesinger from 1981
+Choose the movie you would like to add to the playlist.
+Which year would you like to display? (1980-2020)
+2019
+******2019*****
+Which genre would you like?
+Comedy
+******Comedy*****
+MOVIES TOTAL: 5340
+5226 Once Upon a Time... In Hollywood by Quentin Tarantino from 2019
+5232 Yesterday by Danny Boyle from 2019
+5233 Parasite by Bong Joon Ho from 2019
+5235 Knives Out by Rian Johnson from 2019
+5240 Jojo Rabbit by Taika Waititi from 2019
+5255 Booksmart by Olivia Wilde from 2019
+5261 Marriage Story by Noah Baumbach from 2019
+5264 Hustlers by Lorene Scafaria from 2019
+5267 Long Shot by Jonathan Levine from 2019
+5282 Late Night by Nisha Ganatra from 2019
+5296 What Men Want by Adam Shankman from 2019
+5299 Happy Death Day 2U by Christopher Landon from 2019
+5305 The Hustle by Chris Addison from 2019
+5307 The Beach Bum by Harmony Korine from 2019
+5310 The Art of Racing in the Rain by Simon Curtis from 2019
+5311 Blinded by the Light by Gurinder Chadha from 2019
+5312 Where'd You Go, Bernadette by Richard Linklater from 2019
+5314 Isn't It Romantic by Todd Strauss-Schulson from 2019
+5326 Poms by Zara Hayes from 2019
+5327 Little by Tina Gordon from 2019
+5330 A Madea Family Funeral by Tyler Perry from 2019
+21 movies found.
+Enter the number of the movie you would like to add:
+5232
+Yesterday by Danny Boyle from 2019 added to the playlist.
+What would you like to do?
+1. Display Movie by Type and Year
+2. Add Movie to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+2
+1. Honky Tonk Freeway by John Schlesinger from 1981
+2. Yesterday by Danny Boyle from 2019
+Choose the movie you would like to add to the playlist.
+Which year would you like to display? (1980-2020)
+2011
+******2011*****
+Which genre would you like?
+Drama
+******Drama*****
+MOVIES TOTAL: 5340
+4009 Take Shelter by Jeff Nichols from 2011
+4019 The Help by Tate Taylor from 2011
+4029 Contagion by Steven Soderbergh from 2011
+4032 One Day by Lone Scherfig from 2011
+4036 We Need to Talk About Kevin by Lynne Ramsay from 2011
+4045 Melancholia by Lars von Trier from 2011
+4061 A Separation by Asghar Farhadi from 2011
+4062 Hugo by Martin Scorsese from 2011
+4064 The Tree of Life by Terrence Malick from 2011
+4069 Margin Call by J.C. Chandor from 2011
+4096 Dream House by Jim Sheridan from 2011
+4100 The Ides of March by George Clooney from 2011
+4104 Water for Elephants by Francis Lawrence from 2011
+4115 Another Earth by Mike Cahill from 2011
+4116 Like Crazy by Drake Doremus from 2011
+4120 Beastly by Daniel Barnz from 2011
+4123 Silent House by Chris Kentis from 2011
+4128 The Divide by Xavier Gens from 2011
+4130 The Roommate by Christian E. Christiansen from 2011
+4132 The Rite by Mikael Hafstrom from 2011
+4134 Sound of My Voice by Zal Batmanglij from 2011
+4135 W.E. by Madonna from 2011
+4150 Courageous by Alex Kendrick from 2011
+4151 Jin ling shi san chai by Yimou Zhang from 2011
+4153 Anonymous by Roland Emmerich from 2011
+4155 Atlas Shrugged: Part I by Paul Johansson from 2011
+4157 The Beaver by Jodie Foster from 2011
+4160 Dolphin Tale by Charles Martin Smith from 2011
+28 movies found.
+Enter the number of the movie you would like to add:
+4062
+Hugo by Martin Scorsese from 2011 added to the playlist.
+What would you like to do?
+1. Display Movie by Type and Year
+2. Add Movie to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+3
+1. Honky Tonk Freeway by John Schlesinger from 1981
+2. Yesterday by Danny Boyle from 2019
+3. Hugo by Martin Scorsese from 2011
+What would you like to do?
+1. Display Movie by Type and Year
+2. Add Movie to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+4
+Done sorting by year
+3 items sorted.
+What would you like to do?
+1. Display Movie by Type and Year
+2. Add Movie to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+2
+1. Honky Tonk Freeway by John Schlesinger from 1981
+2. Hugo by Martin Scorsese from 2011
+3. Yesterday by Danny Boyle from 2019
+Choose the movie you would like to add to the playlist.
+Which year would you like to display? (1980-2020)
+1998
+******1998*****
+Which genre would you like?
+Comedy
+******Comedy*****
+MOVIES TOTAL: 5340
+1919 The Big Lebowski by Joel Coen from 1998
+1922 The Truman Show by Peter Weir from 1998
+1927 The Wedding Singer by Frank Coraci from 1998
+1932 There's Something About Mary by Bobby Farrelly from 1998
+1935 Out of Sight by Steven Soderbergh from 1998
+1937 Practical Magic by Griffin Dunne from 1998
+1939 Pleasantville by Gary Ross from 1998
+1940 You've Got Mail by Nora Ephron from 1998
+1942 Rushmore by Wes Anderson from 1998
+1946 Ever After: A Cinderella Story by Andy Tennant from 1998
+1948 Shakespeare in Love by John Madden from 1998
+1949 Can't Hardly Wait by Harry Elfont from 1998
+1953 Stepmom by Chris Columbus from 1998
+1954 The Waterboy by Frank Coraci from 1998
+1955 Blast from the Past by Hugh Wilson from 1998
+1963 Bride of Chucky by Ronny Yu from 1998
+1976 Sliding Doors by Peter Howitt from 1998
+1977 Buffalo '66 by Vincent Gallo from 1998
+1983 Half Baked by Tamra Davis from 1998
+1995 A Night at the Roxbury by John Fortenberry from 1998
+1997 BASEketball by David Zucker from 1998
+2000 Bulworth by Warren Beatty from 1998
+2001 Dirty Work by Bob Saget from 1998
+2003 Doctor Dolittle by Betty Thomas from 1998
+2004 Celebrity by Woody Allen from 1998
+2005 Very Bad Things by Peter Berg from 1998
+2006 The Last Days of Disco by Whit Stillman from 1998
+2012 The Object of My Affection by Nicholas Hytner from 1998
+2016 Waking Ned Devine by Kirk Jones from 1998
+2018 Primary Colors by Mike Nichols from 1998
+2021 Simon Birch by Mark Steven Johnson from 1998
+2022 Jack Frost by Troy Miller from 1998
+2024 How Stella Got Her Groove Back by Kevin Rodney Sullivan from 1998
+2026 Major League: Back to the Minors by John Warren from 1998
+2028 Playing by Heart by Willard Carroll from 1998
+2030 The Players Club by Ice Cube from 1998
+2031 Dead Man on Campus by Alan Cohn from 1998
+2032 Senseless by Penelope Spheeris from 1998
+2037 Pecker by John Waters from 1998
+2039 Wide Awake by M. Night Shyamalan from 1998
+2040 Mafia! by Jim Abrahams from 1998
+2043 Smoke Signals by Chris Eyre from 1998
+2047 Slums of Beverly Hills by Tamara Jenkins from 1998
+2051 Meet the Deedles by Steve Boyum from 1998
+2054 Clay Pigeons by David Dobkin from 1998
+2056 I'll Be Home for Christmas by Arlene Sanford from 1998
+2057 Ringmaster by Neil Abramson from 1998
+2059 Holy Man by Stephen Herek from 1998
+2060 Your Friends and Neighbors by Neil LaBute from 1998
+2061 Zero Effect by Jake Kasdan from 1998
+2063 Hurlyburly by Anthony Drazan from 1998
+2064 Home Fries by Dean Parisot from 1998
+52 movies found.
+Enter the number of the movie you would like to add:
+1922
+The Truman Show by Peter Weir from 1998 added to the playlist.
+What would you like to do?
+1. Display Movie by Type and Year
+2. Add Movie to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+3
+1. Honky Tonk Freeway by John Schlesinger from 1981
+2. Hugo by Martin Scorsese from 2011
+3. Yesterday by Danny Boyle from 2019
+4. The Truman Show by Peter Weir from 1998
+What would you like to do?
+1. Display Movie by Type and Year
+2. Add Movie to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+4
+Done sorting by year
+4 items sorted.
+What would you like to do?
+1. Display Movie by Type and Year
+2. Add Movie to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+3
+1. Honky Tonk Freeway by John Schlesinger from 1981
+2. The Truman Show by Peter Weir from 1998
+3. Hugo by Martin Scorsese from 2011
+4. Yesterday by Danny Boyle from 2019
+What would you like to do?
+1. Display Movie by Type and Year
+2. Add Movie to Playlist
+3. Display Playlist
+4. Sort Playlist by Year
+5. Quit
+5
+Thank you for using the UMBC Movie Player!

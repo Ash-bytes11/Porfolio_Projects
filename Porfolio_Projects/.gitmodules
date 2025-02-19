@@ -1,0 +1,6 @@
+[submodule "WorkGen/Workgen-AI"]
+	path = WorkGen/Workgen-AI
+	url = https://github.com/Workgen/Workgen-AI.git
+[submodule "WorkGen/Workgen-Backend"]
+	path = WorkGen/Workgen-Backend
+	url = https://github.com/Workgen/Workgen-Backend.git
