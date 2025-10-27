@@ -1,4 +1,5 @@
 **Disclaimer**
+
 This repository represents a **public, non-confidential version** of my Applied AI Engineer internship assessment.
 All sensitive information (including environment files, database credentials, and private datasets) has been excluded.  
 The material is provided exclusively for demonstration and portfolio review.
