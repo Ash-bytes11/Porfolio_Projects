@@ -1,1 +1,12 @@
-All solo projects
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite3
+*.log
+node_modules/
+venv/
+.env.*
+*.pem
+*.pkl
+*.zip
